@@ -1,0 +1,4 @@
+{
+    "port": 5000,
+    "mongoUri": "YOUR_MONGO_URI"
+}
